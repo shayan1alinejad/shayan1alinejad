@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - Currently Learning JS and C# ✅
+- Trying To Be a Better Full Stack in the future !✅
 - Cs50x Student (Certificate --> https://cs50.harvard.edu/certificates/bfa93635-a8b6-444e-84c6-696cbe8df0cb ) ✅
+- <b>hi</b>
 - 
