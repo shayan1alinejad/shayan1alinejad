@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Html Is Not A Language Of Coding ...
 -->
 
-<iframe src="https://discord.com/widget?id=834786913344552981&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+- Currently Learning JS and C# ✅
+- Cs50x Student (Certificate --> https://cs50.harvard.edu/certificates/bfa93635-a8b6-444e-84c6-696cbe8df0cb ) ✅
+- 
