@@ -1,4 +1,4 @@
-<b><u>Hello World - سلام دنیا !</u> </b>
+<b><u>Hello World - 🌏سلام دنیا !</u> </b>
 
 <!--
 **shayan1alinejad/shayan1alinejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
